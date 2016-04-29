@@ -1,0 +1,20 @@
+{
+  "name": "dbeurive/registry",
+  "description": "This package contains a basic implementation for a registry.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Denis BEURIVE",
+      "email": "dbeurive.github@gmail.com"
+    }
+  ],
+  "keywords": ["registry"],
+  "autoload": {
+    "psr-4": {
+      "dbeurive\\Registry\\": "src"
+    }
+  },
+  "archive": {
+    "exclude": []
+  }
+}
